@@ -30,7 +30,6 @@ public class Main {
         //Read up: Java Data (Structures)
         // Inherit two interfaces from a class
         // learn readme and use it to write your java class notes
-        //- primit
 
         HashSet<String> currencies =  new HashSet<>();
         currencies.add("naira");
@@ -42,8 +41,6 @@ public class Main {
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
-
-
     }
 }
 
